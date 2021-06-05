@@ -1,3 +1,5 @@
+For educational purposes, playing around.!
+
 Free Python Games
 =================
 
